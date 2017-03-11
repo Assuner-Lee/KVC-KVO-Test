@@ -363,5 +363,4 @@ int main(int argc, const char * argv[]) {
 
 ##谢谢观看
 ####欢迎大家指出文中的错误！
-演示代码地址：https://github.com/Assuner-Lee/KVC-KVO-Test.git
-下一篇：[最简单的仿微信图片选择器 LPDQuoteImagesView](http://www.jianshu.com/p/2b9086d2c37b)
+下一篇：[最简单的仿微信图片选择器 LPDQuoteImagesView](https://github.com/Assuner-Lee/LPDQuoteImagesView.git)
