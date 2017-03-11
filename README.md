@@ -1,5 +1,6 @@
-关于KVC/KVO的实现原理，网上的相关介绍文章很多，但大部分说的比较抽象http://www.jianshu.com/p/2b95d9ef436e
-https://github.com/Assuner-Lee/KVC-KVO-Test.git
+关于KVC/KVO的实现原理，网上的相关介绍文章很多，但大部分说的比较抽象，难以真切的理解，下面我们直接撸代码来实地探讨下。
+简书详细介绍：http://www.jianshu.com/p/2b95d9ef436e
+
 ## KVC  演示代码
 #####ASClass.h
 ```
