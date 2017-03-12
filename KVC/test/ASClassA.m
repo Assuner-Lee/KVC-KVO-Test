@@ -16,7 +16,10 @@
     NSLog(@"执行 setter _modelString");
 }
 
-
+//- (NSString *)_modelString {
+//    NSLog(@"执行 getter _modelString");
+//    return __modelString;
+//}
 - (void)setModelString:(NSString *)modelString {
     NSLog(@"执行 setter modelString");
 }
